@@ -390,7 +390,7 @@ nav a.ativo {
 }
 
 .projeto-resumo p {
-    color: #ead8ef;
+    color: #ffffff;
     font-size: .85rem;
 }
 
@@ -403,7 +403,7 @@ nav a.ativo {
 }
 
 .titulo-projetos p {
-    color: #d174f9;
+    color: #ff0973;
     font-weight: bold;
 }
 
@@ -437,7 +437,7 @@ nav a.ativo {
 }
 
 .projeto-numero {
-    color: #d174f9;
+    color: #fb016d;
     font-size: 2.5rem;
     font-weight: bold;
 }
@@ -448,7 +448,7 @@ nav a.ativo {
 }
 
 .projeto-topo p {
-    color: #ead8ef;
+    color: #ffffff;
 }
 
 .projeto-conteudo {
@@ -458,7 +458,7 @@ nav a.ativo {
 }
 
 .projeto-info h3 {
-    color: #d174f9;
+    color: #000000;
     margin: 25px 0 12px;
 }
 
@@ -468,7 +468,7 @@ nav a.ativo {
 
 .projeto-info p,
 .projeto-info li {
-    color: #ead8ef;
+    color: #ffffff;
 }
 
 .projeto-info ol,
@@ -487,11 +487,11 @@ nav a.ativo {
 }
 
 .tecnologias span {
-    background: #774886;
+    background: #46001d95;
     padding: 7px 12px;
     border-radius: 20px;
     font-size: .8rem;
-    border: 1px solid #d174f9;
+    border: 1px solid #c2034f;
 }
 
 .botoes-projeto {
@@ -516,7 +516,7 @@ nav a.ativo {
 
 .outro-card {
     padding: 25px;
-    background: linear-gradient(145deg,#774886,#4d0169);
+    background: linear-gradient(145deg, #8c053d, #91094255);
     border-radius: 13px;
     transition: .3s;
 }
@@ -526,13 +526,13 @@ nav a.ativo {
 }
 
 .outro-card>i {
-    color: #e0a4fa;
+    color: #000000;
     font-size: 1.8rem;
 }
 
 .outro-card span {
     display: block;
-    color: #e0a4fa;
+    color: #ec4c76;
     font-size: .7rem;
     margin-top: 15px;
 }
@@ -554,7 +554,7 @@ nav a.ativo {
 }
 
 .outro-card a:hover {
-    color: #e0a4fa;
+    color: #7d070b;
 }
 
 .contato-grid {
@@ -564,12 +564,12 @@ nav a.ativo {
 }
 
 .contato-texto h3 {
-    color: #d174f9;
+    color: #ff016f;
     margin-bottom: 12px;
 }
 
 .contato-texto p {
-    color: #ead8ef;
+    color: #ffffff;
 }
 
 .contatos {
@@ -583,7 +583,7 @@ nav a.ativo {
     align-items: center;
     gap: 15px;
     padding: 15px;
-    background: rgba(77, 1, 105, .75);
+    background: rgba(105, 1, 50, 0.75);
     border-radius: 10px;
     color: white;
     text-decoration: none;
@@ -592,17 +592,17 @@ nav a.ativo {
 
 .contatos a:hover {
     transform: translateX(5px);
-    background: #774886;
+    background: #864860;
 }
 
 .contatos a>i {
     font-size: 1.5rem;
-    color: #d174f9;
+    color: #f9749e;
 }
 
 .contatos span {
     display: block;
-    color: #dca0f7;
+    color: #b4083e;
     font-size: .75rem;
 }
 
@@ -611,14 +611,14 @@ nav a.ativo {
 }
 
 footer {
-    background: #360049;
+    background: #490018;
     text-align: center;
     padding: 25px;
     margin-top: 40px;
 }
 
 footer p {
-    color: #ead8ef;
+    color: #efd8e2;
     font-size: .9rem;
 }
 
@@ -627,16 +627,16 @@ footer p {
 }
 
 ::-webkit-scrollbar-track {
-    background: #eaafff;
+    background: #ffafce;
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #4d0169;
+    background: #690132;
     border-radius: 20px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #360049;
+    background: #490023;
 }
 
 @media (max-width: 900px) {
